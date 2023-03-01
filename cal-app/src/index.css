@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+
 * {
   margin: 0;
   padding: 0;
@@ -8,7 +9,7 @@
 
 body {
   height: 100vh;
-  background: #f4f4f4;
+  background-image: linear-gradient(to bottom right, rgb(52, 106, 255), red, orange);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -16,7 +17,7 @@ body {
 }
 
 .wrapper {
-  background: #f6f8f9;
+  background: black;
   width: 20rem;
   padding: 2rem;
   margin-top: 4rem;
@@ -25,8 +26,10 @@ body {
 }
 
 .screen {
-  height: 4rem;
-  margin-bottom: 4rem;
+  height: 5rem;
+  margin-bottom: 3rem;
+  background-color: white;
+  border-radius: 5px;
 }
 
 .buttonBox {
