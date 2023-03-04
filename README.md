@@ -1,6 +1,7 @@
 # Calculator-App-React
 
 ## Link to Deployed Project
+https://wflores230.github.io/Calculator-App-React/
 
 ## Installation
 Clone down this repository. You will need node and npm installed globally on your machine.
@@ -23,7 +24,7 @@ npm start
 
 To Visit App:
 
-localhost:3000/ideas
+localhost:3000/
 
 ## Description
 
